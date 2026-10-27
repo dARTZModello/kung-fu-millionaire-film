@@ -9,21 +9,21 @@ Official site for the **Kung Fu Millionaire** (KFM$ / GM$ Go Munny) film project
 - Long-term: 1 million Bitcoin avatars from the films/IP
 - Brand: HEX LAB, neon hexagon patterns, molten gold, electric cyan, neon magenta palette
 
-## Current Status
-- Repo created as the home for the film website
-- Awaiting full site files from iPad build / Grok session
-- Next: structure pages, design system, character galleries, minting links, film trailers, etc.
+## Starter Structure (ready)
+- [`gallery/index.html`](gallery/index.html) — neon cyberpunk starter gallery page (open in browser to preview)
+- `posters/` — drop hero images and icons here (`app_icon.jpg`, `story_banner_9x16.jpg`, etc.)
+- `gallery/` — favicon, apple-touch-icon, mobile_test.html
 
-## Tech Notes
-- Compatible with modern static or Vite/React sites
-- Neon tube outline style, LED effects, cyberpunk aesthetic
-- Mobile-first (iPad build origin)
+## Current Status
+- Live Grok site: https://shadow-blaze-silver-raven.grok.me/
+- Starter gallery + placeholder folders added to this repo
+- Awaiting real posters, videos, and chapter assets from the iPad build to replace placeholders
 
 ## Next Steps
-1. Push current website files from the iPad build into this repo
-2. Review structure, pages, and design
-3. Complete missing sections (film synopsis, character roster, trading cards, merch, mint)
-4. Deploy and share
+1. Drop real posters into `posters/` and update the gallery cards
+2. Wire video chapters into the live Video Gallery on the grok.me site
+3. Rebrand hero/images fully to KUNG FU MILLIONAIRE / KFM$
+4. Deploy or expand the site
 
 ---
 
