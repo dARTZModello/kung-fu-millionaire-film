@@ -1,0 +1,406 @@
+{
+  "id": "dance-animals-50",
+  "count": 50,
+  "plates": [
+    {
+      "n": 1,
+      "code": "DA-01",
+      "title": "Mantis Tango",
+      "animal": "Praying Mantis",
+      "dance": "Argentine tango",
+      "family": "ballroom"
+    },
+    {
+      "n": 2,
+      "code": "DA-02",
+      "title": "Crane Adagio",
+      "animal": "White Crane",
+      "dance": "Ballet adagio",
+      "family": "ballet"
+    },
+    {
+      "n": 3,
+      "code": "DA-03",
+      "title": "Tiger Cha",
+      "animal": "Tiger",
+      "dance": "Cha-cha",
+      "family": "ballroom"
+    },
+    {
+      "n": 4,
+      "code": "DA-04",
+      "title": "Serpent Wave",
+      "animal": "Snake",
+      "dance": "Body wave",
+      "family": "pulse"
+    },
+    {
+      "n": 5,
+      "code": "DA-05",
+      "title": "Dragon Waltz",
+      "animal": "Dragon",
+      "dance": "Viennese waltz",
+      "family": "ballroom"
+    },
+    {
+      "n": 6,
+      "code": "DA-06",
+      "title": "Leopard Lock",
+      "animal": "Leopard",
+      "dance": "Locking",
+      "family": "street"
+    },
+    {
+      "n": 7,
+      "code": "DA-07",
+      "title": "Monkey Break",
+      "animal": "Monkey",
+      "dance": "Breaking",
+      "family": "street"
+    },
+    {
+      "n": 8,
+      "code": "DA-08",
+      "title": "Eagle Vogue",
+      "animal": "Eagle",
+      "dance": "Vogue",
+      "family": "street"
+    },
+    {
+      "n": 9,
+      "code": "DA-09",
+      "title": "Bear Sway",
+      "animal": "Black Bear",
+      "dance": "Slow dance",
+      "family": "ballroom"
+    },
+    {
+      "n": 10,
+      "code": "DA-10",
+      "title": "Stallion Zap",
+      "animal": "Horse",
+      "dance": "Flamenco",
+      "family": "form"
+    },
+    {
+      "n": 11,
+      "code": "DA-11",
+      "title": "Phoenix Lift",
+      "animal": "Phoenix",
+      "dance": "Contemporary",
+      "family": "ballet"
+    },
+    {
+      "n": 12,
+      "code": "DA-12",
+      "title": "Panther House",
+      "animal": "Panther",
+      "dance": "Deep house",
+      "family": "pulse"
+    },
+    {
+      "n": 13,
+      "code": "DA-13",
+      "title": "Wolf Krump",
+      "animal": "Wolf",
+      "dance": "Krump",
+      "family": "street"
+    },
+    {
+      "n": 14,
+      "code": "DA-14",
+      "title": "Vixen Foxtrot",
+      "animal": "Fox",
+      "dance": "Foxtrot",
+      "family": "ballroom"
+    },
+    {
+      "n": 15,
+      "code": "DA-15",
+      "title": "Kitten Jazz",
+      "animal": "Cat",
+      "dance": "Jazz",
+      "family": "pulse"
+    },
+    {
+      "n": 16,
+      "code": "DA-16",
+      "title": "Bunny Relevé",
+      "animal": "Bunny",
+      "dance": "Classical ballet",
+      "family": "ballet"
+    },
+    {
+      "n": 17,
+      "code": "DA-17",
+      "title": "Owl Nocturne",
+      "animal": "Owl",
+      "dance": "Nocturne",
+      "family": "ballet"
+    },
+    {
+      "n": 18,
+      "code": "DA-18",
+      "title": "Koi Drift",
+      "animal": "Koi",
+      "dance": "Butoh",
+      "family": "form"
+    },
+    {
+      "n": 19,
+      "code": "DA-19",
+      "title": "Shell Form",
+      "animal": "Turtle",
+      "dance": "Tai chi dance",
+      "family": "form"
+    },
+    {
+      "n": 20,
+      "code": "DA-20",
+      "title": "Sting Waack",
+      "animal": "Scorpion",
+      "dance": "Waacking",
+      "family": "street"
+    },
+    {
+      "n": 21,
+      "code": "DA-21",
+      "title": "Cobra Coil",
+      "animal": "Cobra",
+      "dance": "Tribal fusion",
+      "family": "pulse"
+    },
+    {
+      "n": 22,
+      "code": "DA-22",
+      "title": "Rhino Stomp",
+      "animal": "Rhino",
+      "dance": "Stomp",
+      "family": "street"
+    },
+    {
+      "n": 23,
+      "code": "DA-23",
+      "title": "Herd Pulse",
+      "animal": "Elephant",
+      "dance": "Afrobeat",
+      "family": "pulse"
+    },
+    {
+      "n": 24,
+      "code": "DA-24",
+      "title": "Fan Display",
+      "animal": "Peacock",
+      "dance": "Fan dance",
+      "family": "ballet"
+    },
+    {
+      "n": 25,
+      "code": "DA-25",
+      "title": "Lake Line",
+      "animal": "Swan",
+      "dance": "Swan lake",
+      "family": "ballet"
+    },
+    {
+      "n": 26,
+      "code": "DA-26",
+      "title": "Hawk Pop",
+      "animal": "Hawk",
+      "dance": "Popping",
+      "family": "street"
+    },
+    {
+      "n": 27,
+      "code": "DA-27",
+      "title": "Parade Lion",
+      "animal": "Lion",
+      "dance": "Lion dance",
+      "family": "form"
+    },
+    {
+      "n": 28,
+      "code": "DA-28",
+      "title": "Lyric Leap",
+      "animal": "Deer",
+      "dance": "Lyrical",
+      "family": "ballet"
+    },
+    {
+      "n": 29,
+      "code": "DA-29",
+      "title": "Reel Kick",
+      "animal": "Goat",
+      "dance": "Irish reel",
+      "family": "form"
+    },
+    {
+      "n": 30,
+      "code": "DA-30",
+      "title": "Horn Hit",
+      "animal": "Ram",
+      "dance": "Percussive",
+      "family": "street"
+    },
+    {
+      "n": 31,
+      "code": "DA-31",
+      "title": "Fin Cut",
+      "animal": "Shark",
+      "dance": "Glide",
+      "family": "pulse"
+    },
+    {
+      "n": 32,
+      "code": "DA-32",
+      "title": "Arc Leap",
+      "animal": "Dolphin",
+      "dance": "Flow",
+      "family": "ballet"
+    },
+    {
+      "n": 33,
+      "code": "DA-33",
+      "title": "Eight Reach",
+      "animal": "Octopus",
+      "dance": "Contact",
+      "family": "form"
+    },
+    {
+      "n": 34,
+      "code": "DA-34",
+      "title": "Grid Spider",
+      "animal": "Spider",
+      "dance": "Robot",
+      "family": "street"
+    },
+    {
+      "n": 35,
+      "code": "DA-35",
+      "title": "Hive Knees",
+      "animal": "Bee",
+      "dance": "Charleston",
+      "family": "ballroom"
+    },
+    {
+      "n": 36,
+      "code": "DA-36",
+      "title": "Wing Arc",
+      "animal": "Butterfly",
+      "dance": "Lyric ballet",
+      "family": "ballet"
+    },
+    {
+      "n": 37,
+      "code": "DA-37",
+      "title": "Lily Pop",
+      "animal": "Frog",
+      "dance": "Popping",
+      "family": "street"
+    },
+    {
+      "n": 38,
+      "code": "DA-38",
+      "title": "Pad Bounce",
+      "animal": "Toad",
+      "dance": "Bounce",
+      "family": "pulse"
+    },
+    {
+      "n": 39,
+      "code": "DA-39",
+      "title": "Jack Jive",
+      "animal": "Hare",
+      "dance": "Jive",
+      "family": "ballroom"
+    },
+    {
+      "n": 40,
+      "code": "DA-40",
+      "title": "Dodgy Stomp",
+      "animal": "Dodgy Dog",
+      "dance": "Phonk stomp",
+      "family": "pulse"
+    },
+    {
+      "n": 41,
+      "code": "DA-41",
+      "title": "Night Waltz",
+      "animal": "Raven",
+      "dance": "Gothic waltz",
+      "family": "ballroom"
+    },
+    {
+      "n": 42,
+      "code": "DA-42",
+      "title": "Clique Step",
+      "animal": "Crow",
+      "dance": "Stepping",
+      "family": "street"
+    },
+    {
+      "n": 43,
+      "code": "DA-43",
+      "title": "Quick Talon",
+      "animal": "Falcon",
+      "dance": "Quickstep",
+      "family": "ballroom"
+    },
+    {
+      "n": 44,
+      "code": "DA-44",
+      "title": "Samba Spot",
+      "animal": "Jaguar",
+      "dance": "Samba",
+      "family": "pulse"
+    },
+    {
+      "n": 45,
+      "code": "DA-45",
+      "title": "Blur Feet",
+      "animal": "Cheetah",
+      "dance": "Footwork",
+      "family": "street"
+    },
+    {
+      "n": 46,
+      "code": "DA-46",
+      "title": "Bamboo Turn",
+      "animal": "Panda",
+      "dance": "Ballroom tai chi",
+      "family": "form"
+    },
+    {
+      "n": 47,
+      "code": "DA-47",
+      "title": "Gum Sway",
+      "animal": "Koala",
+      "dance": "Chill sway",
+      "family": "pulse"
+    },
+    {
+      "n": 48,
+      "code": "DA-48",
+      "title": "Kick Roo",
+      "animal": "Kangaroo",
+      "dance": "Jumpstyle",
+      "family": "street"
+    },
+    {
+      "n": 49,
+      "code": "DA-49",
+      "title": "Odd Bill",
+      "animal": "Platypus",
+      "dance": "Experimental",
+      "family": "form"
+    },
+    {
+      "n": 50,
+      "code": "DA-50",
+      "title": "Lamp Spin",
+      "animal": "Moth",
+      "dance": "Trance spin",
+      "family": "pulse"
+    }
+  ]
+}

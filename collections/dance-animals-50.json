@@ -1,0 +1,12 @@
+{
+  "no": "08",
+  "id": "dance-animals-50",
+  "title": "LED Dance Animals 50",
+  "brand": "KFM$",
+  "count": 50,
+  "status": "ready-for-index",
+  "gallery": "dance-animals/gallery.html",
+  "mint": "dance-animals/mint.html",
+  "plates": "dance-animals/plates.json",
+  "note": "Bot: add this set to the collection and update indexes. Do not edit the locked Masterforce templates."
+}
