@@ -11,7 +11,7 @@
     h2 { color: var(--magenta); margin-top: 2.5rem; }
     pre { background: #111; border: 1px solid #333; padding: 1rem; overflow-x: auto; font-size: 0.9rem; }
     code { background: #222; padding: 0.1rem 0.3rem; border-radius: 3px; }
-    ul { margin-left: 1.5rem; }
+    ul, ol { margin-left: 1.5rem; }
     a { color: var(--cyan); }
     .back { text-align: center; margin: 2rem 0; }
   </style>
@@ -19,37 +19,44 @@
 <body>
   <div class="back"><a href="index.html">← Back to Gallery</a></div>
   <h1>For Agents</h1>
-  <p style="text-align:center; color:#ccc;">The same gallery, for agents. Public, read-only. Make images, videos, and films with the KUNG FU MILLIONAIRE open character.</p>
+  <p style="text-align:center; color:#ccc;">The same gallery, for agents. Public, read-only. Make images, videos, and films with the KUNG FU MILLIONAIRE open character. Create your own videos with her.</p>
 
   <h2>Start Here</h2>
   <ol>
     <li>Read the <a href="identity.html">Identity Text / Canon</a> and paste the identity text into every prompt.</li>
     <li>Keep the neon LED tube outline only style. Constants are non-negotiable.</li>
-    <li>Use the character turnaround and pose sets on the main gallery as visual references when the model supports image inputs.</li>
-    <li>Always generate her as an adult martial artist in dynamic poses.</li>
+    <li>Use the character turnaround and 30 Key Frame Pose Set on the main gallery as visual references when the model supports image inputs.</li>
+    <li>Always generate her as an adult athletic martial artist in dynamic poses.</li>
+    <li>Drop real posters into /posters/ and update gallery cards when available.</li>
   </ol>
 
   <h2>Prompt Template (Image)</h2>
-  <pre>neon LED tube outline only style, [identity text from identity.html], [specific pose from pose set: e.g. flying kick or horse stance], [camera: close / medium / full], black background, high contrast, electric cyan and magenta, molten gold accents, HEX LAB hex patterns, dynamic energy, no solid fills, no skin</pre>
+  <pre>neon LED tube outline only style, [identity text from identity.html], [specific pose from pose set: e.g. flying kick, horse stance, spinning strike, meditation], [camera: close / medium / full body], black background, high contrast, electric cyan and magenta, molten gold accents, HEX LAB hex patterns, dynamic energy, no solid fills, no skin, no photorealism</pre>
+
+  <h2>Prompt Template (Video / Shot)</h2>
+  <pre>neon LED tube outline only, [identity text], [action sequence: flying kick into spinning strike into power pose], continuous motion, black background, electric cyan and magenta lighting, molten gold accents, dynamic energy swirls optional, no solid fills</pre>
 
   <h2>Video / Shot Notes</h2>
   <ul>
-    <li>Whole-second timelines preferred for video models.</li>
-    <li>She is always doing something: striking, spinning, meditating with energy, collecting coins, finishing with power.</li>
-    <li>Lip sync only if a song is provided; otherwise silent action or music-driven.</li>
-    <li>Attach face / turnaround reference when available.</li>
+    <li>Whole-second timelines preferred for video models (Seedance, Wan, etc.).</li>
+    <li>She is always doing something: striking, spinning, kicking, meditating with energy, collecting coins, finishing with power.</li>
+    <li>Lip sync only if a song is provided; otherwise silent action or music-driven neon motion.</li>
+    <li>Attach face / turnaround / pose reference when available.</li>
+    <li>Keep pure tube outline — avoid filling or realistic rendering mid-generation.</li>
   </ul>
 
   <h2>Kit & Repo</h2>
-  <p>All assets, plates, and future kit code live in the GitHub repository:</p>
+  <p>All assets, plates, identity, and future kit code live in the GitHub repository:</p>
   <p><a href="https://github.com/dARTZModello/kung-fu-millionaire-film">https://github.com/dARTZModello/kung-fu-millionaire-film</a></p>
   <p>Dance Animals 50 plates: <a href="dance-animals/gallery.html">gallery.html</a> and <a href="dance-animals/plates.json">plates.json</a>.</p>
+  <p>Main gallery (this site root): <a href="index.html">index.html</a></p>
 
   <h2>llms.txt style summary</h2>
   <pre># kungfumillionaire.gallery (this site)
 
 > KUNG FU MILLIONAIRE open character: neon LED tube outline only martial arts AI character from the KFM$ film project and HEX LAB brand.
 > Anyone may use the character. Keep the neon tube style and constants.
+> Create your own videos with her.
 
 ## Start
 - Identity text: /identity.html
@@ -57,9 +64,20 @@
 - Main gallery: /
 
 ## Constants (short)
-Neon LED tube outline only · magenta-pink hair with cyan · glowing green eyes · corset + platform boots · dynamic kung fu poses · cyan/magenta/gold palette · adult athletic woman · HEX LAB / KFM$ branding optional</pre>
+Neon LED tube outline only · magenta-pink hair with cyan streaks · glowing green eyes · corset + platform boots · dynamic kung fu poses · cyan/magenta/gold palette · adult athletic woman · HEX LAB / KFM$ branding optional
+
+## Never
+Solid fills · photoreal · static poses · underage · off-palette · breaking the tube outline</pre>
+
+  <h2>Future Kit Ideas</h2>
+  <ul>
+    <li>MCP server endpoint for gallery search (identity + plates).</li>
+    <li>Runnable prompt checker / style enforcer.</li>
+    <li>Downloadable skill zip with identity + templates.</li>
+    <li>Pose set JSON for automated plate generation.</li>
+  </ul>
 
   <div class="back"><a href="index.html">← Back to Gallery</a> · <a href="identity.html">Identity Text</a></div>
-  <p style="text-align:center; color:var(--gold); margin-top:3rem;">KFM$ — Open character. Use her. Create your own videos.</p>
+  <p style="text-align:center; color:var(--gold); margin-top:3rem;">KFM$ — Open character. Use her. Create your own videos with me.</p>
 </body>
 </html>
