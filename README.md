@@ -9,31 +9,41 @@ Official site for the **Kung Fu Millionaire** (KFM$ / GM$ Go Munny) film project
 - Long-term: 1 million Bitcoin avatars from the films/IP
 - Brand: HEX LAB, neon hexagon patterns, molten gold, electric cyan, neon magenta palette
 
-## Starter Structure (ready)
-- [`gallery/index.html`](gallery/index.html) — neon cyberpunk starter gallery page (open in browser to preview)
-- `posters/` — drop hero images and icons here (`app_icon.jpg`, `story_banner_9x16.jpg`, etc.)
-- `gallery/` — favicon, apple-touch-icon, mobile_test.html
+## Site Structure (GitHub Pages ready)
+- **Root `index.html`** — Main open character gallery. Opens directly when GitHub Pages is enabled on the main branch (root).
+- [`identity.html`](identity.html) — Full open-character identity text / canon (paste into prompts).
+- [`agents.html`](agents.html) — For agents / kit page with prompt templates and llms.txt-style summary.
+- [`gallery/index.html`](gallery/index.html) — Earlier starter gallery (still available).
+- `posters/` — Drop hero images, turnarounds, and key frames here, then update the cards in root index.html.
+- [`dance-animals/`](dance-animals/) — 50 LED neon dance-animal plates (gallery.html + plates.json).
 
-## Dance Animals 50 (ready for the collection bot)
+## Open Character
+KUNG FU MILLIONAIRE is released as an open AI character in the style of Claudia (claudia.gallery).
+- Neon LED tube outline only style
+- Identity text on identity.html
+- Agent instructions on agents.html
+- Create your own videos and images. Use her.
 
-- [`dance-animals/gallery.html`](dance-animals/gallery.html) — 50 LED neon dance-animal plates
-- [`dance-animals/mint.html`](dance-animals/mint.html) — turn and mint serials (keep beside the gallery file)
-- [`dance-animals/plates.json`](dance-animals/plates.json) — plate index, DA-01 through DA-50
-- [`collections/INBOX.json`](collections/INBOX.json) — intake for the Grok bot to add set 08 and update indexes
-
-Locked Masterforce templates stay untouched.
+Official X-style bio energy: Official account🧡 Collaboration dm 📩  
+Create your own videos with me using the link below! 🧡
 
 ## Current Status
 - Live Grok site: https://shadow-blaze-silver-raven.grok.me/
-- Starter gallery + placeholder folders added to this repo
-- Awaiting real posters, videos, and chapter assets from the iPad build to replace placeholders
+- Root gallery + identity + agents pages added
+- Awaiting real posters and images from uploads to replace placeholders in the gallery cards
+
+## Enable GitHub Pages
+1. Go to repo Settings → Pages
+2. Source: Deploy from a branch
+3. Branch: main / (root)
+4. Save. The site will be at https://dartzmodello.github.io/kung-fu-millionaire-film/
 
 ## Next Steps
-1. Drop real posters into `posters/` and update the gallery cards
-2. Wire video chapters into the live Video Gallery on the grok.me site
-3. Rebrand hero/images fully to KUNG FU MILLIONAIRE / KFM$
-4. Deploy or expand the site
+1. Drop real posters / turnaround images into `posters/` and update the <img> or placeholder cards in index.html
+2. Wire video chapters into the live site
+3. Expand the agent kit with more runnable code if desired
 
 ---
 
 **KFM$ — The Kina d’ART7 era is officially HERE.**
+Open character. Use her.
