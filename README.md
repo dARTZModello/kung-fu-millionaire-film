@@ -10,9 +10,9 @@ Official site for the **Kung Fu Millionaire** (KFM$ / GM$ Go Munny) film project
 - Brand: HEX LAB, neon hexagon patterns, molten gold, electric cyan, neon magenta palette
 
 ## Site Structure (GitHub Pages ready)
-- **Root `index.html`** — Main open character gallery. Opens directly when GitHub Pages is enabled on the main branch (root).
-- [`identity.html`](identity.html) — Full open-character identity text / canon (paste into prompts).
-- [`agents.html`](agents.html) — For agents / kit page with prompt templates and llms.txt-style summary.
+- **Root `index.html`** — Main open character gallery. Opens directly when GitHub Pages is enabled on the main branch (root). Claudia-style bio: Official account🧡 Collaboration dm 📩 Create your own videos with me using the link below! 🧡
+- [`identity.html`](identity.html) — Full open-character identity text / canon (paste into prompts). Expanded with looks, constants, never list.
+- [`agents.html`](agents.html) — For agents / kit page with prompt templates (image + video), llms.txt-style summary, and future kit notes.
 - [`gallery/index.html`](gallery/index.html) — Earlier starter gallery (still available).
 - `posters/` — Drop hero images, turnarounds, and key frames here, then update the cards in root index.html.
 - [`dance-animals/`](dance-animals/) — 50 LED neon dance-animal plates (gallery.html + plates.json).
@@ -21,7 +21,7 @@ Official site for the **Kung Fu Millionaire** (KFM$ / GM$ Go Munny) film project
 KUNG FU MILLIONAIRE is released as an open AI character in the style of Claudia (claudia.gallery).
 - Neon LED tube outline only style
 - Identity text on identity.html
-- Agent instructions on agents.html
+- Agent instructions and templates on agents.html
 - Create your own videos and images. Use her.
 
 Official X-style bio energy: Official account🧡 Collaboration dm 📩  
@@ -29,8 +29,9 @@ Create your own videos with me using the link below! 🧡
 
 ## Current Status
 - Live Grok site: https://shadow-blaze-silver-raven.grok.me/
-- Root gallery + identity + agents pages added
-- Awaiting real posters and images from uploads to replace placeholders in the gallery cards
+- Root gallery + expanded identity + agents pages ready
+- Awaiting real posters and images from uploads / Drive to replace placeholders in the gallery cards
+- Key-frame references available via KFM bots / workspace for incorporation
 
 ## Enable GitHub Pages
 1. Go to repo Settings → Pages
@@ -39,11 +40,11 @@ Create your own videos with me using the link below! 🧡
 4. Save. The site will be at https://dartzmodello.github.io/kung-fu-millionaire-film/
 
 ## Next Steps
-1. Drop real posters / turnaround images into `posters/` and update the <img> or placeholder cards in index.html
+1. Drop real posters / turnaround images into `posters/` and update the placeholder cards in index.html
 2. Wire video chapters into the live site
-3. Expand the agent kit with more runnable code if desired
+3. Expand the agent kit with runnable code / MCP if desired
 
 ---
 
 **KFM$ — The Kina d’ART7 era is officially HERE.**
-Open character. Use her.
+Open character. Use her. Create your own videos.
